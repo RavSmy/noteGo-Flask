@@ -1,0 +1,4 @@
+include NoteBook/schema.sql
+graft NoteBook/static
+graft NoteBook/templates
+global-exclude *.pyc

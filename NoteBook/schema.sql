@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS note;
+
+CREATE TABLE note (
+    id TEXT UNIQUE NOT NULL,
+    fileName TEXT NOT NULL
+);

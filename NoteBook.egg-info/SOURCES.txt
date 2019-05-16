@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.py
+NoteBook.egg-info/PKG-INFO
+NoteBook.egg-info/SOURCES.txt
+NoteBook.egg-info/dependency_links.txt
+NoteBook.egg-info/not-zip-safe
+NoteBook.egg-info/requires.txt
+NoteBook.egg-info/top_level.txt
